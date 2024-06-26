@@ -65,3 +65,6 @@ I hope you enjoy this project and find it inspiring. Feel free to share it with 
 - 📚 Google Fonts
 
 📸 Screenshots (Output) 📸
+![3d Ai](https://github.com/eshaagarwa/esha_resume/blob/main/assets/images/1.png)
+
+ ![3dAI](https://github.com/eshaagarwa/esha_resume/blob/main/assets/images/2.png)
